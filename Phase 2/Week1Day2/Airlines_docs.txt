@@ -1,0 +1,13 @@
+AIRLINES
+
+An airline is a company that provides air transport services for passengers or freight using aircraft, operating under governmental operating certificates. [1, 2] 
+Main Types of Airlines
+•	Full-Service Carriers (Traditional): Offer multiple travel classes (Economy, Business, First), scheduled routes, and inclusive services such as meals, checked baggage, and airport lounges (e.g., Emirates, British Airways). [3, 4] 
+•	Low-Cost Carriers (LCCs) / Budget Airlines: Provide low base fares with a "no-frills" model where extras like checked bags, seat selection, and onboard food cost extra (e.g., IndiGo, Ryanair). [4, 5, 6] 
+•	Regional Airlines: Use smaller aircraft to connect smaller cities, towns, or low-demand areas to major airport hubs. [4, 5] 
+•	Cargo / Freight Airlines: Operate fleets specifically dedicated to transporting goods and supply chain freight (e.g., FedEx, DHL). [4, 5] 
+•	Charter Airlines: Do not operate on a fixed public schedule; instead, they are rented out by groups, sports teams, or tour operators for specific trips. [4, 7] 
+Key Industry Features
+•	Regulation: Governed by national civil aviation authorities and international bodies (such as the ICAO) regarding safety standards, routes, and air traffic rights. [1, 8] 
+•	Alliances: Many major airlines join global networks—such as Star Alliance, SkyTeam, or Oneworld—to share loyalty programs, code-share flights, and expand global reach. [1, 3] 
+•	Cost Structure: Characterized by high fixed and operating expenses, including jet fuel, aircraft leases, maintenance, labor, and airport fees. [2, 3]
